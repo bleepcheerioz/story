@@ -7,15 +7,7 @@
 	left:20px;
 	width:800px;
 height:600px;
-}
-body {
-  background-color: #1a1a1a; /* dark grey example */
-}
-
-.flipbook-container{
-  background-color: #1a1a1a; !important;
-}
-
+background-color: #000435;
 }
 .zoomBook{
 	position:absolute;
